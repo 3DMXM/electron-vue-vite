@@ -26,5 +26,5 @@ npm run build
 ````
 
 ### 截图
-![](/20230215151343.jpg)
-![](/20230215151348.jpg)
+![](https://github.com/3DMXM/electron-vue-vite/blob/master/public/20230215151343.jpg)
+![](https://github.com/3DMXM/electron-vue-vite/blob/master/public/20230215151348.jpg)
