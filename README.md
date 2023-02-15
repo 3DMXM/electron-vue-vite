@@ -26,5 +26,5 @@ npm run build
 ````
 
 ### 截图
-![](https://mod.3dmgame.com/static/upload/mod/202302/MOD63ec8645ecf8e.jpg@webp)
-![](https://mod.3dmgame.com/static/upload/mod/202302/MOD63ec8645f2c02.jpg@webp)
+![](/20230215151343.jpg)
+![](/20230215151348.jpg)
